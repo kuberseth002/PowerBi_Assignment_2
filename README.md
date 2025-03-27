@@ -32,10 +32,13 @@ Power BI Instructions:
 2. Data Visualization:
 Designed an interactive dashboard with various visualizations, including:
 
-Bar Charts: To analyze customer churn trends by geography and customer id.
-Pie Charts: To visualize the distribution of gender, credit card ownership, and active members.
-Donut Charts: To display the active member based on different geography.
-Line Charts: To identify sum of Balance by there surname.
+ Bar Charts: To analyze customer churn trends by geography and customer id.
+
+ Pie Charts: To visualize the distribution of gender, credit card ownership, and active members.
+
+ Donut Charts: To display the active member based on different geography.
+
+ Line Charts: To identify sum of Balance by there surname.
 
 3. Insights & Analysis:
 Identified the distribution of customers by geography, gender, and age groups.
