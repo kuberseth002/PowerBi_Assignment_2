@@ -1,6 +1,6 @@
 **Customer Churn Analysis**
-Aim:
-The objective of this project is to analyze customer churn data using Power BI and create insightful visualizations to understand key trends, patterns, and factors influencing customer retention.
+
+Aim:The objective of this project is to analyze customer churn data using Power BI and create insightful visualizations to understand key trends, patterns, and factors influencing customer retention.
 
 About the Dataset:
 File Name: Churn_Modelling.csv
