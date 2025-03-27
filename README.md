@@ -70,3 +70,4 @@ Captured screenshots of key dashboard insights for reference.
 
 Screenshots:
 Below is the link to the screenshots taken from the Power BI dashboard:
+https://drive.google.com/drive/folders/1kbX_OOUDJQE4XvuXR4tSj5lEywOi74w-?usp=sharing
