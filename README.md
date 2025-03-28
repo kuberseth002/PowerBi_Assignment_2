@@ -1,13 +1,16 @@
 **Customer Churn Analysis**
 
-Aim:The objective of this project is to analyze customer churn data using Power BI and create insightful visualizations to understand key trends, patterns, and factors influencing customer retention.
+# Aim:
 
-About the Dataset:
+The objective of this project is to analyze customer churn data using Power BI and create insightful visualizations to understand key trends, patterns, and factors influencing customer retention.
+
+# About the Dataset:
+
 File Name: Churn_Modelling.csv
 
 Description: This dataset contains customer-related information from a bank, including demographics, account details, and churn status. The goal is to analyze factors that contribute to customer churn.
 
-Key Features:
+# Key Features:
 
 Customer ID
 Geography (Country)
@@ -20,7 +23,8 @@ Has Credit Card (Yes/No)
 Is Active Member (Yes/No)
 Exited (Churned or Not)
 
-Power BI Instructions:
+# Power BI Instructions:
+ 
  1. Data Import & Transformation
     Imported Churn_Modelling.csv into Power BI.
     Cleaned and transformed the data using Power Query Editor.
@@ -51,6 +55,6 @@ Examined the impact of credit score and active membership on customer retention.
  Saved the .pbix file containing all reports.
  Captured screenshots of key dashboard insights for reference.
 
-Screenshots:
+# Screenshots:
 Below is the link to the screenshots taken from the Power BI dashboard:
 https://drive.google.com/drive/folders/1kbX_OOUDJQE4XvuXR4tSj5lEywOi74w-?usp=sharing
